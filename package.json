@@ -1,0 +1,23 @@
+{
+  "name": "jskisql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/jshtlist.min.js",
+  "files": [
+    "dist/"
+  ],
+  "keywords": [
+    "database",
+    "sql",
+    "localStorage",
+    "browser",
+    "client-side"
+  ],
+  "author": "Shawn",
+  "license": "MIT",
+  "homepage": "https://gitee.com/shawn_python/jskisql",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitee.com/shawn_python/jskisql.git"
+  }
+}
